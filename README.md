@@ -16,13 +16,3 @@ The purpose of this repository is to present different applications in Data Scie
 
 <!--...........................................-->
 <!--...........................................-->
-
-
-
-# 📖 Summary
-***Note <sup>1</sup> :**  By clicking on the arrows, the sections will be expanded.*<br>
-***Note <sup>2</sup> :**  Clicking on a hyperlink ([in blue](https://github.com/FelipeRamosOliveira/Portfolio)) will redirect you to specific parts of this repository*<br><br>
-
-<!--...........................................-->
-<!--...........................................-->
-
